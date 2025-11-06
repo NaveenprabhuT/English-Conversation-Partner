@@ -1,0 +1,7 @@
+{
+  "name": "Copy of English Conversation Partner",
+  "description": "An AI-powered app to help non-native speakers practice and improve their spoken English through natural, engaging conversations using Gemini's real-time audio capabilities.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
